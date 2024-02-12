@@ -1,0 +1,25 @@
+{
+  "users": [
+    {
+      "id": "663fr",
+      "name": "Bruce",
+      "email": "kung-fu@gmail.com",
+      "phone": "+43 432 67444 45",
+      "active": true
+    },
+    {
+      "id": "43fg",
+      "name": "Josh",
+      "email": "abs_3234@gmail.com",
+      "phone": "+43 34 2776 6",
+      "active": true
+    },
+    {
+      "id": "99",
+      "name": "Max",
+      "email": "exaple@99gmail.com",
+      "phone": "+74591 83800 8778",
+      "active": true
+    }
+  ]
+}
